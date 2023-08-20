@@ -1,7 +1,7 @@
 # ConnectFour-Dan-Ori
 Connect Four Game - C# Project with ASP.NET Framework for Server and Website, Windows Forms App for the client to play against the server.
 After a player is registered in the server SQL server database, he can open the Desktop application and play against the server & watch his previous Game Recordings.
-
+In the website, you can view all game data such as players, games played and run SQL queries on the data.
 Client Solution - https://github.com/Ori-nissim/ConnectFour-client-side/tree/connect-to-remote-server 
 
 
